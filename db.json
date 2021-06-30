@@ -1,45 +1,45 @@
 {
 	"posts": [{
-			"id": "1",
+			"id": 1,
 			"nombre": "Luca",
 			"descripcion": "En esta ocasión, el espectador se traslada a la costa italiana conocida como La Riviera para conocer a Luca, un muchacho que pasa el verano junto a su mejor amigo y conocen a una niña, Giulia, hija de un pescador, con la que crean una especie de club de los bichos raros. Pero la felicidad se verá truncada cuando un oscuro secreto sobre su verdadera identidad puede amenazar ese vínculo: los protagonistas son en realidad dos monstruos marinos de otro mundo que viven en las profundidades del océano y se transforman en humanos al salir a la superficie. Será entonces cuando los dos amigos se embarquen en una aventura veraniega por la costa transalpina en la que descubrirán el verdadero sentido de la amistad.",
-			"califiacion": 4,
+			"calificacion": 4,
 			"categoria": "Aventura",
 			"caratula": "https://www.google.com/imgres?imgurl=https%3A%2F%2Flumiere-a.akamaihd.net%2Fv1%2Fimages%2Fluca_hl_23b0cd50.png%3Fregion%3D210%2C0%2C1058%2C800&imgrefurl=https%3A%2F%2Fdisneylatino.com%2Fpeliculas%2Fluca&tbnid=QUH7SdjtbasOTM&vet=12ahUKEwjtpau_qLTxAhUHS1MKHStJAc0QMygDegUIARDdAQ..i&docid=dqO8LoyHDbdKvM&w=1058&h=800&q=Luca&ved=2ahUKEwjtpau_qLTxAhUHS1MKHStJAc0QMygDegUIARDdAQ",
 			"portada": "https://www.sensacine.com/peliculas/pelicula-285584/trailer-19567429/"
 		},
 		{
-			"id": "2",
+			"id": 2,
 			"nombre": "El Gran Showman",
 			"descripcion": "Un original musical inspirado en la vida de P.T. Barnum y protagonizado por Hugh Jackman. Barnum era un visonario que comenzó de cero para crear el show más grande del mundo, un espectáculo y celebración de su desbordante imaginación que cautivó al público en todo el planeta.",
-			"califiacion": 4,
+			"calificacion": 4,
 			"categoria": "Musical",
 			"caratula": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQxWvYVYjQLknyUol7j1Cx29YLi4JLAdgpE1-d3udgoNflCv53O",
 			"portada": "https://www.disneyplus.com/es-419/movies/el-gran-showman/66TvI61aPddY"
 		},
 		{
-			"id": "3",
+			"id": 3,
 			"nombre": "Cigüeñas: La historia que no te contaron",
 			"descripcion": "Junior, una cigüeña, y su amiga Tulip, la única humana de Montaña Cigüeña, deben entregar a una bebé que salió de la máquina de hacer bebés por error. Tendrán que hacerlo lo antes posible, para que su jefe no se entere y se enoje con ellos. Emprenden así un viaje repleto de aventuras asombrosas.",
-			"califiacion": 2,
+			"calificacion": 2,
 			"categoria": "Animación",
 			"caratula": "http://mamasrockstars.com/wp-content/uploads/2016/09/Ciguenas2.png",
 			"portada": "http://mamasrockstars.com/wp-content/uploads/2016/09/Ciguenas2.png"
 		},
 		{
-			"id": "4",
+			"id": 4,
 			"nombre": "Escuadrón 6 (6 Underground)",
 			"descripcion": "Seis de diferentes partes del mundo. Cada una de las cuales es la mejor en lo que hacen y han sido elegidas no solo por su habilidad, sino por su deseo único de dejar atrás su pasado para cambiar el futuro.",
-			"califiacion": 5,
+			"calificacion": 5,
 			"categoria": "Acción",
 			"caratula": "https://1.bp.blogspot.com/-Ii8orh_RpMc/XwE4wbXTCBI/AAAAAAAAAuk/EQqejIKRGA0oW9dIVR5RBIHZtxPTF_xZACLcBGAsYHQ/s1600/escuadro-6-720p.jpg",
 			"portada": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0BVv7ChHuluk_SFtukPYDpwuGqHiusp1cWsfD259uYk55SMPC"
 		},
 		{
-			"id": "5",
+			"id": 5,
 			"nombre": "Attraction 2: Invasion",
 			"descripcion": "Tres años después de la invasión extraterrestre, Yulia ha desarrollado habilidades especiales. Sus poderes no solo atraen la atención del Gobierno ruso, también la de entidades alienígenas dispuestas a cualquier cosa por capturarla.",
-			"califiacion": 4,
+			"calificacion": 4,
 			"categoria": "Ciencia ficción",
 			"caratula": "https://images-na.ssl-images-amazon.com/images/I/71Fm0nEJ13L._SY445_.jpg",
 			"portada": "https://images-na.ssl-images-amazon.com/images/I/71BVLv103TL._SL1500_.jpg"
